@@ -1,0 +1,70 @@
+mov 0000,r0
+mov 172E,r1
+mov 1121,r2
+mov 172E,r3
+
+out r0,p0
+out r1,p1
+out r2,p2
+out r3,p3
+
+mov 1121,r0
+mov 172E,r1
+mov 0000,r2
+mov 0000,r3
+
+out r0,p4
+out r1,p5
+out r2,p6
+out r3,p7
+
+m:
+;¬»√¿≈Ã  –€ÿ”
+IN P0,R3
+ROR 1,r3
+;;not r3
+OUT R3,P0
+;
+IN P1,R0
+ROR 1,r0
+;not r0
+OUT R0,P1
+;
+IN P2,R0
+ROR 1,r0
+;not r0
+OUT R0,P2
+;
+IN P3,R0
+ROR 1,r0
+;not r0
+OUT R0,P3
+;
+IN P4,R0
+ROR 1,r0
+;not r0
+OUT R0,P4
+;
+IN P5,R0
+ROR 1,r0
+;not r0
+OUT R0,P5
+;
+IN P6,R0
+ROR 1,r0
+;not r0
+OUT R0,P6
+;
+IN P7,R0
+ROR 1,r0
+;not r0
+OUT R0,P7
+
+
+
+
+;
+;OUT R3,P7
+JMP m
+
+stop
