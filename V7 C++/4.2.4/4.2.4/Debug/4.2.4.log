@@ -1,0 +1,4 @@
+﻿  4.2.4.cpp
+C:\Users\vladr\source\repos\4.2.4\4.2.4\4.2.4.cpp(19,52): warning C4244: -=: преобразование "double" в "float", возможна потеря данных
+C:\Users\vladr\source\repos\4.2.4\4.2.4\4.2.4.cpp(23,6): warning C4553: "==": результат выражения не используется; вы хотели использовать "="?
+  4.2.4.vcxproj -> C:\Users\vladr\source\repos\4.2.4\Debug\4.2.4.exe
