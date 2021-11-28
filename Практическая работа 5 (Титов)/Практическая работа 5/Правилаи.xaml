@@ -1,0 +1,26 @@
+﻿<Window x:Class="Практическая_работа_5.Правилаи"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Практическая_работа_5"
+        mc:Ignorable="d"
+        Title="Правилаи" Height="450" Width="800">
+    <Grid Background="Gainsboro">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="30*"/>
+            <ColumnDefinition Width="503*"/>
+            <ColumnDefinition Width="267*"/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="90*"/>
+            <RowDefinition Height="241*"/>
+            <RowDefinition Height="103*"/>
+
+        </Grid.RowDefinitions>
+        <Label Content="Правила" HorizontalAlignment="Left" VerticalAlignment="Center" FontFamily="Times New Roman" FontSize="36" Width="152" Height="51" Grid.Column="1" Margin="194,0,0,0"/>
+        <Button Content="Выход на главную страницу" HorizontalAlignment="Left" Margin="10,19,0,0" VerticalAlignment="Top" Height="55" Grid.Row="2" Width="229" Grid.Column="2" FontFamily="Times New Roman" FontSize="18" Background="Khaki" Click="Button_Click"/>
+        <Label Content="Основное правило игры в кости — каждый игрок по очереди бросает&#xD;&#xA; некоторое количество игральных костей,&#xA; &#xA;после чего результат броска (сумма выпавших очков; в некоторых&#xD;&#xA; вариантах используются очки каждой &#xA; кости по отдельности) используется для определения победителя или&#xD;&#xA; проигравшего. До конца игры может &#xA; производится произвольное количество бросков. Существует &#xD;&#xA;множество разновидностей игры в кости, &#xA;как простых так и сложных." HorizontalAlignment="Left" Margin="0,10,0,0" Grid.Row="1" VerticalAlignment="Top" FontFamily="Times New Roman" FontSize="16" RenderTransformOrigin="4.005,4.757" Width="626" Height="329" Grid.Column="1" Grid.ColumnSpan="2" Grid.RowSpan="2"/>
+        <Image Source="resources/cube-2031511__480.jpg" Grid.Column="2" Margin="00,0,0,0" Grid.RowSpan="3"/>
+    </Grid>
+</Window>

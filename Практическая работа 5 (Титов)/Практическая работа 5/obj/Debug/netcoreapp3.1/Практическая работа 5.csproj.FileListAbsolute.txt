@@ -1,0 +1,26 @@
+C:\Users\maris\source\repos\Практическая работа 5\Практическая работа 5\bin\Debug\netcoreapp3.1\Практическая работа 5.exe
+C:\Users\maris\source\repos\Практическая работа 5\Практическая работа 5\bin\Debug\netcoreapp3.1\Практическая работа 5.deps.json
+C:\Users\maris\source\repos\Практическая работа 5\Практическая работа 5\bin\Debug\netcoreapp3.1\Практическая работа 5.runtimeconfig.json
+C:\Users\maris\source\repos\Практическая работа 5\Практическая работа 5\bin\Debug\netcoreapp3.1\Практическая работа 5.runtimeconfig.dev.json
+C:\Users\maris\source\repos\Практическая работа 5\Практическая работа 5\bin\Debug\netcoreapp3.1\Практическая работа 5.dll
+C:\Users\maris\source\repos\Практическая работа 5\Практическая работа 5\bin\Debug\netcoreapp3.1\Практическая работа 5.pdb
+C:\Users\maris\source\repos\Практическая работа 5\Практическая работа 5\obj\Debug\netcoreapp3.1\Практическая работа 5.csproj.AssemblyReference.cache
+C:\Users\maris\source\repos\Практическая работа 5\Практическая работа 5\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\maris\source\repos\Практическая работа 5\Практическая работа 5\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\maris\source\repos\Практическая работа 5\Практическая работа 5\obj\Debug\netcoreapp3.1\Практическая работа 5_MarkupCompile.cache
+C:\Users\maris\source\repos\Практическая работа 5\Практическая работа 5\obj\Debug\netcoreapp3.1\Практическая работа 5_MarkupCompile.lref
+C:\Users\maris\source\repos\Практическая работа 5\Практическая работа 5\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\maris\source\repos\Практическая работа 5\Практическая работа 5\obj\Debug\netcoreapp3.1\Практическая работа 5.g.resources
+C:\Users\maris\source\repos\Практическая работа 5\Практическая работа 5\obj\Debug\netcoreapp3.1\Практическая_работа_5.Properties.Resources.resources
+C:\Users\maris\source\repos\Практическая работа 5\Практическая работа 5\obj\Debug\netcoreapp3.1\Практическая работа 5.csproj.GenerateResource.cache
+C:\Users\maris\source\repos\Практическая работа 5\Практическая работа 5\obj\Debug\netcoreapp3.1\Практическая работа 5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maris\source\repos\Практическая работа 5\Практическая работа 5\obj\Debug\netcoreapp3.1\Практическая работа 5.AssemblyInfoInputs.cache
+C:\Users\maris\source\repos\Практическая работа 5\Практическая работа 5\obj\Debug\netcoreapp3.1\Практическая работа 5.AssemblyInfo.cs
+C:\Users\maris\source\repos\Практическая работа 5\Практическая работа 5\obj\Debug\netcoreapp3.1\Практическая работа 5.csproj.CoreCompileInputs.cache
+C:\Users\maris\source\repos\Практическая работа 5\Практическая работа 5\obj\Debug\netcoreapp3.1\Практическая работа 5.dll
+C:\Users\maris\source\repos\Практическая работа 5\Практическая работа 5\obj\Debug\netcoreapp3.1\Практическая работа 5.pdb
+C:\Users\maris\source\repos\Практическая работа 5\Практическая работа 5\obj\Debug\netcoreapp3.1\Практическая работа 5.genruntimeconfig.cache
+C:\Users\maris\source\repos\Практическая работа 5\Практическая работа 5\obj\Debug\netcoreapp3.1\Правилаи.g.cs
+C:\Users\maris\source\repos\Практическая работа 5\Практическая работа 5\obj\Debug\netcoreapp3.1\Правилаи.baml
+C:\Users\maris\source\repos\Практическая работа 5\Практическая работа 5\obj\Debug\netcoreapp3.1\Игра.g.cs
+C:\Users\maris\source\repos\Практическая работа 5\Практическая работа 5\obj\Debug\netcoreapp3.1\Игра.baml
