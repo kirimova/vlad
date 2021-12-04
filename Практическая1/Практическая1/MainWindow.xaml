@@ -1,0 +1,17 @@
+﻿<Window x:Class="Практическая1.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Практическая1"
+        mc:Ignorable="d"
+        Title="Практическая работа 1" Height="850" Width="1100">
+    <Grid Background="Pink">
+        <Button x:Name="Трапеция" Content="Конус" HorizontalAlignment="Left" Margin="186,247,0,0" VerticalAlignment="Top" Width="195" Height="101" FontFamily="Times New Roman" FontSize="18" Click="Трапеция_Click" />
+        <Button x:Name="Сфера" Content="Сфера" HorizontalAlignment="Left" Margin="186,487,0,0" VerticalAlignment="Top" Width="195" Height="101" FontFamily="Times New Roman" FontSize="18" Click="Сфера_Click_1"/>
+        <Button x:Name="Усеченныйконус" Content="Усеченный конус " HorizontalAlignment="Left" Margin="737,247,0,0" VerticalAlignment="Top" Width="195" Height="101"  FontFamily="Times New Roman" FontSize="18" Click="Усеченныйконус_Click"/>
+        <Button x:Name="Цилиндр" Content="Целиндр" HorizontalAlignment="Left" Margin="737,487,0,0" VerticalAlignment="Top" Width="195" Height="101" FontFamily="Times New Roman" FontSize="18" Click="Цилиндр_Click_1"/>
+        <Button x:Name="Выход" Content="Выход" HorizontalAlignment="Left" Height="90" Margin="516,79,0,0" VerticalAlignment="Top" Width="164" FontFamily="Times New Roman" FontSize="18" Click="Выход_Click"/>
+
+    </Grid>
+</Window>

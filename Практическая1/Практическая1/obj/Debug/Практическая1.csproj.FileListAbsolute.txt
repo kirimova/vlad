@@ -1,0 +1,23 @@
+C:\Users\708\source\repos\Практическая1\Практическая1\bin\Debug\Практическая1.exe.config
+C:\Users\708\source\repos\Практическая1\Практическая1\bin\Debug\Практическая1.exe
+C:\Users\708\source\repos\Практическая1\Практическая1\bin\Debug\Практическая1.pdb
+C:\Users\708\source\repos\Практическая1\Практическая1\obj\Debug\Практическая1.csproj.AssemblyReference.cache
+C:\Users\708\source\repos\Практическая1\Практическая1\obj\Debug\MainWindow.g.cs
+C:\Users\708\source\repos\Практическая1\Практическая1\obj\Debug\App.g.cs
+C:\Users\708\source\repos\Практическая1\Практическая1\obj\Debug\Практическая1_MarkupCompile.cache
+C:\Users\708\source\repos\Практическая1\Практическая1\obj\Debug\Практическая1_MarkupCompile.lref
+C:\Users\708\source\repos\Практическая1\Практическая1\obj\Debug\MainWindow.baml
+C:\Users\708\source\repos\Практическая1\Практическая1\obj\Debug\Практическая1.g.resources
+C:\Users\708\source\repos\Практическая1\Практическая1\obj\Debug\Практическая1.Properties.Resources.resources
+C:\Users\708\source\repos\Практическая1\Практическая1\obj\Debug\Практическая1.csproj.GenerateResource.cache
+C:\Users\708\source\repos\Практическая1\Практическая1\obj\Debug\Практическая1.csproj.CoreCompileInputs.cache
+C:\Users\708\source\repos\Практическая1\Практическая1\obj\Debug\Практическая1.exe
+C:\Users\708\source\repos\Практическая1\Практическая1\obj\Debug\Практическая1.pdb
+C:\Users\708\source\repos\Практическая1\Практическая1\obj\Debug\Конус.g.cs
+C:\Users\708\source\repos\Практическая1\Практическая1\obj\Debug\Конус.baml
+C:\Users\708\source\repos\Практическая1\Практическая1\obj\Debug\Усеченный конус.g.cs
+C:\Users\708\source\repos\Практическая1\Практическая1\obj\Debug\Усеченный конус.baml
+C:\Users\708\source\repos\Практическая1\Практическая1\obj\Debug\Сфера.g.cs
+C:\Users\708\source\repos\Практическая1\Практическая1\obj\Debug\Сфера.baml
+C:\Users\708\source\repos\Практическая1\Практическая1\obj\Debug\Цилиндр1.g.cs
+C:\Users\708\source\repos\Практическая1\Практическая1\obj\Debug\Цилиндр1.baml
